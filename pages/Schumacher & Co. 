@@ -1,0 +1,31 @@
+---
+type: page
+title: Schumacher & Co.
+date: 2023-01-01
+---
+
+# Photos
+
+Designed by Firefly Design & Communications, Blackadore Caye sales kit was produced with care and attention to the details. The box was crafted by NB Bookbinding. Two layers were created with a foam shelf for the print materials. Oversized, landscape book with fold out pages, cover with an acetate piece, side screws to hold all in place. The brochures were printed on cover stock, soft touch laminated, foil stamped and die scored. 
+
+import Image from 'next/image'
+
+<Image
+  src="/images/blackadore-7.jpeg"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
+[Unsplash ↗ ](https://unsplash.com/photos/WeYamle9fDM)
+
+<Image
+  src="/images/blackadore-2.jpeg"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
+[Unsplash ↗ ](https://unsplash.com/photos/ndN00KmbJ1c)
